@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6bd9dbf.css",
-    "main.js": "/static/js/main.cff675b8.js",
-    "index.html": "/index.html",
-    "main.f6bd9dbf.css.map": "/static/css/main.f6bd9dbf.css.map",
-    "main.cff675b8.js.map": "/static/js/main.cff675b8.js.map"
+    "main.css": "/neppstagram/static/css/main.f6bd9dbf.css",
+    "main.js": "/neppstagram/static/js/main.08310cdb.js",
+    "index.html": "/neppstagram/index.html",
+    "main.f6bd9dbf.css.map": "/neppstagram/static/css/main.f6bd9dbf.css.map",
+    "main.08310cdb.js.map": "/neppstagram/static/js/main.08310cdb.js.map"
   },
   "entrypoints": [
     "static/css/main.f6bd9dbf.css",
-    "static/js/main.cff675b8.js"
+    "static/js/main.08310cdb.js"
   ]
 }
